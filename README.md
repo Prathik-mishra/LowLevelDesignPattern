@@ -79,14 +79,4 @@ The Command Pattern encapsulates a request as an object, thereby allowing users 
 
 The Decorator Pattern attaches additional responsibilities to an object dynamically. This pattern is useful for adding functionalities to objects without altering their structure, promoting adherence to the Open/Closed Principle.
 
-## Contributing
-
-We welcome contributions! If you have any suggestions, bug fixes, or new patterns to add, please fork the repository and create a pull request. Please ensure that your contributions adhere to the coding standards and practices outlined in this repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
-This template can be customized based on specific requirements and the level of detail you'd like to include in each section.
