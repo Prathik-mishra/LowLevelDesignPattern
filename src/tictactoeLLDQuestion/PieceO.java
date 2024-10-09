@@ -2,7 +2,7 @@ package tictactoeLLDQuestion;
 
 public class PieceO extends PlayingPiece{
 
-    public PieceO(){
-        super(pieceType.O);
-    }
+//    public PieceO(){
+//        super(pieceType.O);
+//    }
 }
